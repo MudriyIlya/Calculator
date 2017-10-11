@@ -1,2 +1,2 @@
 # Calculator
-My calculator. Example of code style and understanding some Swift.
+My calculator. Example of Swift code style.
